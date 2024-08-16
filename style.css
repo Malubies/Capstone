@@ -1,0 +1,18 @@
+h1{
+    font-size: 35px;
+}
+ h2{
+    font-size: 25px;
+    color:black;
+ }
+.about{
+    text-align: center;
+}
+*{
+    font-size: 20px;
+    background-color: ##e0fbfc;
+    color: #293241;
+}
+.link{
+    color:#ee6c4d
+}
